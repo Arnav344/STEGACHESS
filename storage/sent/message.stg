@@ -1,0 +1,32 @@
+{
+    "sender": "default_user",
+    "pgn": "[Event \"?\"]\n[Site \"?\"]\n[Date \"????.??.??\"]\n[Round \"?\"]\n[White \"?\"]\n[Black \"?\"]\n[Result \"*\"]\n\n1. a4 a5 2. Ra3 Ra6 3. Ra1 Rc6 4. Ra3 Na6 5. Ra1 b5 6. Ra3 Nb4 7. Ra2 Nd5 8. axb5 a4 9. Ra3 Ra6 10. Rb3 Ra7 11. Nc3 axb3 12. cxb3 Ra1 13. b4 Ra5 14. b3 Ra2 15. Ba3 Rxa3 16. b6 Ra5 17. b5 Ra1 18. b4 Ra5 19. b7 Ra3 20. b8=N Ra5 21. bxa5 Bb7 22. a6 Ba8 23. b6 Bc6 24. a7 Ba8 25. bxc7 Bc6 26. a8=B Ba4 27. Bc6 Bxc6 28. Nxd7 Bb5 29. Na4 Bc4 30. Nc3 Ba2 31. Na4 Nb4 32. Nc3 Bc4 33. Na4 Na6 34. Nb2 Nc5 35. Nxc4 Nb3 36. Ncb6 Nc1 37. Na4 Qa8 38. Nc3 Qa2 39. Nxa2 e5 40. Nxc1 Ke7 41. Nb3 e4 42. Na5 Kxd7 43. Nb7 Kc6 44. Nd8+ Kxc7 45. Qa4 Kd6 46. Qa2 Kc5 47. Qa3+ Kc4 48. Qa2+ Kd4 49. Qa4+ Bb4 50. Qa1+ Kc4 51. Qa4 Kd5 52. Qa2+ Ke5 53. Qa1+ Kf4 54. Qa4 Ba3 55. Qa5 Bc1 56. Qa2 Ba3 57. Qxa3 e3 58. Qa2 Kf5 59. Qa1 Kg5 60. Qa4 f5 61. Qa2 Kg4 62. Qa3 Kf4 63. Qa2 Ke4 64. Qa1 f4 65. Qa3 Kd4 66. Qa1+ Kd5 67. Qa2+ Ke4 68. Qa5 Kd4 69. Qa2 Kc5 70. Qa1 Kb5 71. Qa3 g5 72. Qa1 Kc5 73. Qa3+ Kc4 74. Qa2+ Kb4 75. Qa6 f3 76. Qa7 Kb3 77. Qa5 Kb2 78. Qa4 fxe2 79. Qa6 Kb1 80. Qa5 Kc1 81. Qa4 Kb2 82. Qa5 Kc2 83. Qa3 exf1=B 84. Qa1 Ba6 85. Qa4+ Kb1 86. Qb4+ Ka2 87. Qb5 Bb7 88. Qxb7 Ka3 *\n",
+    "checkpoints": [
+        {
+            "checkpoint_id": 1,
+            "fen": "2bqkbnr/2pppppp/8/1P1n4/1P6/BPN5/r2PPPPP/3QKBNR b Kk - 2 15"
+        },
+        {
+            "checkpoint_id": 2,
+            "fen": "3qkbnr/2PNpppp/8/3n4/N1b5/8/3PPPPP/3QKBNR w Kk - 3 30"
+        },
+        {
+            "checkpoint_id": 3,
+            "fen": "3N1bnr/2P2ppp/2k5/8/4p3/8/3PPPPP/3QKBNR b K - 3 44"
+        },
+        {
+            "checkpoint_id": 4,
+            "fen": "3N2nr/5ppp/8/5k2/8/4p3/Q2PPPPP/4KBNR w K - 2 59"
+        },
+        {
+            "checkpoint_id": 5,
+            "fen": "3N2nr/7p/8/2k3p1/5p2/Q3p3/3PPPPP/4KBNR b K - 3 73"
+        },
+        {
+            "checkpoint_id": 6,
+            "fen": "3N2nr/1b5p/8/1Q4p1/8/4p3/k2P1PPP/4K1NR w K - 8 88"
+        }
+    ],
+    "key_hash": "3c01374a220b981869ea90ab572b216bf929c389d5dd93b64882bfb4e42ec552",
+    "pgn_hash": "39f43d980c65f77f3276ef2adbba3f17f2549927dea8641a0cc784960609fda9"
+}

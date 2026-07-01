@@ -1,0 +1,7 @@
+2026-06-09 13:40:23.755540 Authentication Failure
+2026-06-09 14:13:27.917439 Authentication Failure
+2026-06-09 19:48:36.433611 Authentication Failure
+2026-06-25 19:37:52.314069 Authentication Failure
+2026-06-25 20:31:00.288556 Authentication Failure
+2026-06-25 21:16:24.017094 Authentication Failure
+2026-06-25 22:04:20.747768 Authentication Failure
